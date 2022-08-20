@@ -1,2 +1,0 @@
-SXX GB
-# mypractice
